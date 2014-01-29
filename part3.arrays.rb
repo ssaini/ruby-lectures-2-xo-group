@@ -11,32 +11,25 @@ puts "An array is an indexed collection of objects."
 puts "It has a bunch of slots and you can put data in them."
 
 easy_as = ["a", "b", "c"]
-easy_as[0]
+easy_as[0] #=> returns "a", the first element in the array
 
 puts easy_as
 
-y = ["a","b","z"][1]
+y = ["a","b","z"][1] #=> y would equal "b", the second element in the array
 
 days_of_the_week = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"]
 
-puts "We access the data in an array by referring to the index or position of the slot."
+# We access the data in an array by referring to the index (position) 
+# of the desired element. Elements in an array are counted with the position
+# starting at 0, so the first element in an array is in the 0 position. You can
+# also refer to the last element in an array as -1, or you can count backwards
+# using negative indexes.
 
 puts "The first day of the week is: " + days_of_the_week[0]
 
 puts "The last day of the week is: " + days_of_the_week[-1]
 
-puts "We can use the 'first' method to refer to the first position in an array."
-
-puts "Or more commonly, we use the position index, starting with 0 to access values."
-
-puts "The first day of the week is: " + days_of_the_week[0]
-
-puts "The last is: " + days_of_the_week[6]
-
-puts "The last is: " + days_of_the_week[-2]
-
 easy_as = [1,2,3]
-
 easy_as[-2] == easy_as[1]
 
 puts "A negative index position starts backwards."
@@ -53,26 +46,14 @@ puts days_of_the_week[(days_of_the_week.size-1)]
 
 puts "You can also grab a range of multiple values at once."
 
+# This is called slicing
 weekdays = days_of_the_week[1, 5]
-
 puts weekdays
 
 puts "Finally, you can also set the value of slots in the array using [index]="
 
 empty = []
-
 empty[0] = "filled!"
 
 empty[5] = "also filled"
-
 puts empty.inspect
-
-# Assignment
-# Construct an array with your favorite foods. It should have at least
-# 5 elements.
-#   puts your most favorite food out of that array
-
-# Construct an array with the colors of the rainbow (ROYGBIV)
-#   Slice the colors Red, Orange, and Yellow out of the array
-
-# Start with an empty array and then fill the second and 6th position

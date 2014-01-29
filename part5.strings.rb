@@ -1,4 +1,5 @@
-# String Manipulation
+# A short sampling of some of the fun things you can do with strings
+
 puts "capitalize is obvious.".capitalize
 puts "DOWNCASE too.".downcase
 puts "don't think like a computer".upcase
@@ -33,15 +34,5 @@ puts "one two three".slice(2, 1)
 
 puts "find the w".index("w")
 
-/a|e|i|o|u|y/
-
 puts "know your vowels".match(/a|e|i|o|u|y/)
 puts "know your vowels".scan(/a|e|i|o|u|y/)
-
-# Assignment
-
-# Try to use as many of the string methods as possible.
-# Literally, try to write a ruby script that demonstrates the usage of
-# every string method
-
-

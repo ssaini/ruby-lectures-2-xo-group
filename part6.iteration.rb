@@ -1,20 +1,19 @@
 # Iteration means looping over elements within a collection.
 # Objects that can do this are describe as Enumerable.
 
-# Looping through each character of a string
-# 'each_char' is a method that will loop through each character in a string.
+# 'each_char' is a method that will loop through each character.
+# This loop begins with the 'do' keyword. It means the code that follows
+# should be run for every character within the string.
+
 "abcde".each_char do
   puts "Is this character a vowel?"
 end
 
-# This loop begins with the 'do' keyword. It means the code that follows
-# should be run for every character within the string.
-
-# The code that follows is refered to as the 'block' for the loop.
+# The code that follows is referred to as the 'block' for the loop.
 # The code block is the logic or routine that is triggered each iteration.
 vowels = /a|e|i|o|u|y/
-"abcde".each_char do |char|
-  puts char + " is a vowel." if char.match(vowels)
+"abcde".each_char do |character|
+  puts character + " is a vowel." if character.match(vowels)
 end
 
 # '|character|' is refered to as the yield or iterator of the loop.
@@ -28,6 +27,3 @@ end
 [1,2,3,4,5].each do |int|
   puts "#{int} is odd" if int.odd?
 end
-
-# Assignment
-# Iterate through all the letters in your name outputing all vowels.
