@@ -1,6 +1,6 @@
 puts "But if statements can get verbose and confusing."
 x = 3
-if x == 1 || x == 3 || x == 4
+if x == 1 || x == 3
   puts "x is odd"
 elsif x == 2 || x == 4 #=> false || false
   puts "x is even"
@@ -10,7 +10,7 @@ puts "A nicer way to express that is via the case statement."
 
 y = 1
 x = case y
-  when 3 # y == 4
+  when 1,3 # y == 4
     puts "x is odd"
   when 2,4 # y == 2 || y == 4
     puts "x is even"
