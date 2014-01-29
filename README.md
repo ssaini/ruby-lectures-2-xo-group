@@ -25,13 +25,13 @@ This lecture is meant to cover enough ruby so you can build an interactive, test
 ## Topics Covered by Lecture Files
 
 1. The Case Statement [video](http://flatiron-school-training.s3.amazonaws.com/ruby/lectures/lecture2/part0.switching.mp4) 
-2. Looping
-3. Arrays: Our first Data Structure
-4. A little bit about receivers and object orientation.
-5. Some Things Strings Do
-6. Iteration.
-7. Variable Scope
-8. Gets / Input
+2. Looping [video](http://flatiron-school-training.s3.amazonaws.com/ruby/lectures/lecture2/part1.looping.mp4)
+3. Arrays: Our first Data Structure [video](http://flatiron-school-training.s3.amazonaws.com/ruby/lectures/lecture2/part2.arrays.mp4)
+4. A little bit about receivers and object orientation. [video](http://flatiron-school-training.s3.amazonaws.com/ruby/lectures/lecture2/part3.dot_nation.mp4)
+5. Some Things Strings Do [video](http://flatiron-school-training.s3.amazonaws.com/ruby/lectures/lecture2/part4.strings.mp4)
+6. Iteration. [video](http://flatiron-school-training.s3.amazonaws.com/ruby/lectures/lecture2/part5.iteration.mp4)
+7. Variable Scope [video](http://flatiron-school-training.s3.amazonaws.com/ruby/lectures/lecture2/part6.scope.mp4)
+8. Gets / Input [video]()
 
 # Labs
 
