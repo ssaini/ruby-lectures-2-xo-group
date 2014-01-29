@@ -13,7 +13,7 @@ end
 # The code that follows is refered to as the 'block' for the loop.
 # The code block is the logic or routine that is triggered each iteration.
 vowels = /a|e|i|o|u|y/
-"abcde".each_char do ||
+"abcde".each_char do |char|
   puts char + " is a vowel." if char.match(vowels)
 end
 
@@ -25,7 +25,7 @@ end
 
 # The Array class is also an enumerable.
 # Using the 'each' method
-[1,2,3,4,5].each_with_index do |int|
+[1,2,3,4,5].each do |int|
   puts "#{int} is odd" if int.odd?
 end
 
