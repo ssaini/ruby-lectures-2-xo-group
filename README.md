@@ -24,7 +24,7 @@ This lecture is meant to cover enough ruby so you can build an interactive, test
 
 ## Topics Covered by Lecture Files
 
-1. The Case Statement 
+1. The Case Statement [video](http://flatiron-school-training.s3.amazonaws.com/ruby/lectures/lecture2/part0.switching.mp4) 
 2. Looping
 3. Arrays: Our first Data Structure
 4. A little bit about receivers and object orientation.
