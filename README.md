@@ -42,6 +42,10 @@ order to access them, you will need to sign up for a Github account and
 have us add you to the flatiron-school-training Github organization.**
 
 1. [More Vowels](https://github.com/flatiron-school-training/more-vowels)
+2. [Badges and Schedules](git@github.com:flatiron-school-training/badges-and-schedules.git)
+3. [Deli Counter](https://github.com/flatiron-school-training/deli-counter)
+4. [Phone Number Formatter](https://github.com/flatiron-school-training/phone-number-formatter)
+5. [My Each](https://github.com/flatiron-school-training/my-each)
 
 # Homework
 
