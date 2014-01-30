@@ -51,3 +51,6 @@ have us add you to the flatiron-school-training Github organization.**
 # Homework
 
 [Rspec Jukebox CLI](https://github.com/flatiron-school-training/jukebox-xo-group)
+
+# Lecture Video
+[Lecture 2](http://flatiron-school-training.s3.amazonaws.com/ruby/lectures/lecture2/xo-group-lecture-2.mov)
