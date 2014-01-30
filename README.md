@@ -37,4 +37,12 @@ This lecture is meant to cover enough ruby so you can build an interactive, test
 
 Once watching the lecture, complete the following labs, in order, with the goal of ultimately completing the RSpec Jukebox CLI lab.
 
+**NOTE: These have been created as private Githib repositories. In
+order to access them, you will need to sign up for a Github account and
+have us add you to the flatiron-school-training Github organization.**
+
+1. [More Vowels](https://github.com/flatiron-school-training/more-vowels)
+
 # Homework
+
+[Rspec Jukebox CLI](https://github.com/flatiron-school-training/jukebox)
