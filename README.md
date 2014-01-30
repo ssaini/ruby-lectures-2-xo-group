@@ -45,7 +45,8 @@ have us add you to the flatiron-school-training Github organization.**
 2. [Badges and Schedules](https://github.com/flatiron-school-training/badges-and-schedules-xo-group)
 3. [Deli Counter](https://github.com/flatiron-school-training/deli-counter-xo-group)
 4. [Phone Number Formatter](https://github.com/flatiron-school-training/phone-number-formatter-xo-group)
-5. [My Each](https://github.com/flatiron-school-training/my-each-xo-group)
+5. [Cartoon
+   Collection](https://github.com/flatiron-school-training/cartoon-collections-xo-group)
 
 # Homework
 
